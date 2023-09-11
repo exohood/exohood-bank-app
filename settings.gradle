@@ -1,0 +1,4 @@
+rootProject.name='Banks App'
+include ':app'
+include ':Exohood'
+include ':dynamicform'
